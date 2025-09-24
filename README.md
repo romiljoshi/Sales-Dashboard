@@ -48,3 +48,5 @@ Screenshot / demos :
 Track profit trends across months and sub-categories.
 
 Enable data-driven decision making for ecommerce growth.
+Screenshot / Demos :
+Example : https://github.com/romiljoshi/Sales-Dashboard/blob/main/Sales%20DashBoard.png
